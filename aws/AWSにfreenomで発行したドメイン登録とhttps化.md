@@ -5,9 +5,7 @@
 2. Route53でサブドメインを作成,freenomへ登録
 3. ACMからの証明書発行
 4. ALB作成
-
-## freenomでドメインを発行する
-ht
+<- freenom使うのやめてaws上でドメイン発行した方がいいと思う．
 
 参考ページ
 https://recipe.kc-cloud.jp/archives/11084
